@@ -1,0 +1,56 @@
+ion-content{
+    --ion-background-color:#fff;
+}
+
+.menu{
+  display: flex;
+  flex-direction: column;
+  background-color: #6dc9c9;
+}
+
+.menu h1 {
+    font-size: 30px;
+    text-align: right;
+    margin-right: 25px;
+    color: #fff;
+}
+
+.titulo{
+    font-size: 30px;
+    color: #ffb2b2;
+    font-weight: 400;
+    margin-bottom: 12px;
+    
+}
+
+.je{
+    background-color: #fff;
+    margin-bottom: 30px;
+}
+
+
+.extra{
+    font-size: 15px;
+    color: rgb(63, 61, 61);
+    background: #FFFACC;
+    padding: 4px;
+}
+
+.galeria{
+    color: #fff;
+    padding: 12px;
+    text-decoration: none;
+    margin-bottom: .2em;
+    
+}
+
+.galeria2{
+    width: 180px;
+    height: 45px;
+    --border-radius: 28px;
+    --background: #6dc9c9;
+    color: #fff;
+    font-weight: 400;
+    font-size: 16px;
+    text-transform: none;
+}

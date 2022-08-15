@@ -1,0 +1,101 @@
+ion-content{
+    --ion-background-color:#fff;
+}
+
+.menu{
+  display: flex;
+  flex-direction: column;
+  background-color: #6dc9c9;
+}
+
+.menu h1 {
+    font-size: 30px;
+    text-align: right;
+    margin-right: 25px;
+    color: #fff;
+}
+
+.titulo{
+    font-size: 30px;
+    color: #ffb2b2;
+    font-weight: 400;
+    margin-bottom: 12px;
+}
+
+.contenedor{
+    width: 100%;
+    height: 100%;
+    /* background: url('../../public/assets/logo.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50%; */
+    flex-direction: column;
+    justify-content: center;
+}
+
+.div-contenedor{
+    border-radius: 25px;
+    background: #ffb2b2;
+}
+
+.contenedor1{
+    text-align: center;
+    background: transparent;
+    box-shadow: none;
+}
+
+.contenido{
+    margin-top: 10px;
+}
+
+
+.formulario-registro{
+    display: flex;
+    flex-direction: column;
+    padding: 10px 40px 40px 40px;
+    align-items: center;
+}
+
+.usuario, .contra{
+    font-size: 20px;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin-top: .8em;
+}
+
+.formulario-registro input{
+    font-size: 18px;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: #FFFACC;
+    color: rgb(63, 61, 61);
+}
+
+.formulario-registro textarea{
+    font-size: 18px;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: #FFFACC;
+    color: rgb(63, 61, 61);
+}
+
+.formulario-registro label{
+    margin-bottom: 10px;
+    font-size: 1em;
+}
+
+.registrar{
+    width: 180px;
+    height: 45px;
+    --border-radius: 28px;
+    --background: #6dc9c9;
+    color: #fff;
+    font-weight: 400;
+    font-size: 16px;
+    text-transform: none;
+}
+

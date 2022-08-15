@@ -1,0 +1,43 @@
+ion-content{
+    --ion-background-color:#fff;
+}
+
+.menu{
+  display: flex;
+  flex-direction: column;
+  background-color: #6dc9c9;
+}
+
+.menu h1 {
+    font-size: 30px;
+    text-align: right;
+    margin-right: 25px;
+    color: #fff;
+}
+
+.titulo{
+    font-size: 30px;
+    color: #ffb2b2;
+    font-weight: 400;
+    margin-bottom: 12px;
+    
+}
+
+.descripciongaleria{
+    background-color: #FFFACC;
+    border-radius: 5px;
+    font-size: 16px; 
+    color: rgb(63, 61, 61);
+}
+
+.galeriaimg{
+    background-color: #fff;
+    padding: 8px;
+}
+
+.galeriaimg img{
+    width: 300px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+

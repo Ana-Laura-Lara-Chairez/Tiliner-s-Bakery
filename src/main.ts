@@ -23,6 +23,13 @@ import '@ionic/vue/css/display.css';
 /* Theme variables */
 import './theme/variables.css';
 
+/* Estilos personalizados */
+import './theme/Inicio.css';
+import './theme/Login.css';
+import './theme/Registro.css';
+import './theme/Productos.css';
+import './theme/Galeria.css';
+
 const app = createApp(App)
   .use(IonicVue)
   .use(router);
