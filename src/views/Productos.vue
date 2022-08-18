@@ -27,7 +27,7 @@
                     margin-top: 10px;
                     color: rgb(63, 61, 61);
                     background: #ffb2b2;
-                    padding: 2px;
+                    padding: 5px;
                   "
                   >{{ elementos.nombre }}
                 </ion-card-title>

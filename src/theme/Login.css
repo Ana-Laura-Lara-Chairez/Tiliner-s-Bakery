@@ -60,7 +60,7 @@ ion-content{
 .formulario{
     display: flex;
     flex-direction: column;
-    padding: 10px 40px 40px 40px;
+    padding: 10px 40px 50px 40px;
     align-items: center;
 }
 
@@ -78,7 +78,7 @@ ion-content{
     padding: 10px;
     border-radius: 5px;
     border: none;
-    background-color: #FFFACC;
+    background-color: #F2F2F2;
     color: rgb(63, 61, 61);
 }
 
