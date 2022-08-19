@@ -39,6 +39,7 @@ ion-content{
     background-position: 50%; */
     flex-direction: column;
     justify-content: center;
+    margin-bottom: 170px;
 }
 
 .div-contenedor{
